@@ -38,7 +38,3 @@ Aqui está um exemplo de saída após rodar o script:
 Verificando headers de segurança HTTP no servidor... Aviso: O header 'X-Frame-Options' está ausente. Explicação: Este header impede que o site seja carregado em frames de outros sites, protegendo contra ataques de Clickjacking.
 
 === Scanner de vulnerabilidades concluído ===
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
